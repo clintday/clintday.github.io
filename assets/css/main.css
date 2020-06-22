@@ -2686,7 +2686,6 @@ input, select, textarea {
 		height: 28em;
 		text-align: center;
 		position: relative;
-		max-width: 50%;
 	}
 
 		#banner header {
