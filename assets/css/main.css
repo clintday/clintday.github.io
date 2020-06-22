@@ -2686,7 +2686,7 @@ input, select, textarea {
 			position: absolute;
 			bottom: 0;
 			left: 0;
-			max-width: 100%;
+			max-width: 75%;
 			background: #212121;
 			background: rgba(27, 27, 27, 0.75);
 			color: #fff;
